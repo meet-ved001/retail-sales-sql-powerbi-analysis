@@ -36,6 +36,11 @@ Built interactive visuals including:
 - Store-wise Product Performance
 - Customer Purchasing Patterns
 
+## Screenshot
+<img width="1578" height="938" alt="image" src="https://github.com/user-attachments/assets/9059b312-4319-45da-95a8-38126d587d7e" />
+
+  
+
 ---
 
 ## 🔍 Business Insights
