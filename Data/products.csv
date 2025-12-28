@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price
+P001,Laptop,Electronics,1200
+P002,Smartphone,Electronics,800
+P003,Office Chair,Furniture,250
+P004,Desk,Furniture,400
+P005,Coffee Maker,Appliances,150
+P006,Blender,Appliances,120
+P007,T-Shirt,Clothing,30
+P008,Jeans,Clothing,60
