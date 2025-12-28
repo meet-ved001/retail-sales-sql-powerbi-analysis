@@ -52,12 +52,12 @@ Screenshots available in the `screenshots/` folder.
 ---
 
 ## 🚀 How to Run
-1. Execute SQL scripts from `/sql` folder in SQL Server
-2. Open the `.pbix` file from `/powerbi` folder in Power BI
+1. Execute SQL scripts from `/SQLQuery_Retail_Sales_Data.sql` file in SQL Server
+2. Open the `Retail Sales Analytics Dashboard.pbix` file in Power BI
 3. Refresh data connection if needed
 
 ---
 
 ## 👤 Author
 **Meet Ved**  
-Aspiring Business / Systems Analyst  
+Aspiring Business / Data Analyst  
